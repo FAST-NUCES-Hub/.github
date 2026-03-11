@@ -20,6 +20,24 @@
   
   <br />
 </div>
+## 📚 Semester Repositories
+
+Browse the organized archives for your specific semester. All contributions made via the website are automatically merged here:
+
+| Semester | Repository Link |
+| :---: | :--- |
+| **I** | [📦 FAST-KHI-Semester-1](https://github.com/FAST-NUCES-Hub/FAST-KHI-Semester-1) |
+| **II** | [📦 FAST-KHI-Semester-2](https://github.com/FAST-NUCES-Hub/FAST-KHI-Semester-2) |
+| **III** | [📦 FAST-KHI-Semester-3](https://github.com/FAST-NUCES-Hub/FAST-KHI-Semester-3) |
+| **IV** | [📦 FAST-KHI-Semester-4](https://github.com/FAST-NUCES-Hub/FAST-KHI-Semester-4) |
+| **V** | [📦 FAST-KHI-Semester-5](https://github.com/FAST-NUCES-Hub/FAST-KHI-Semester-5) |
+| **VI** | [📦 FAST-KHI-Semester-6](https://github.com/FAST-NUCES-Hub/FAST-KHI-Semester-6) |
+| **VII** | [📦 FAST-KHI-Semester-7](https://github.com/FAST-NUCES-Hub/FAST-KHI-Semester-7) |
+| **VIII** | [📦 FAST-KHI-Semester-8](https://github.com/FAST-NUCES-Hub/FAST-KHI-Semester-8) |
+
+> *Note: These repositories are strictly organized into standardized folder structures (Theory vs. Lab, Assignments, Notes, Past Papers, etc.) to ensure seamless fetching by the DASTI website.*
+
+---
 
 ## 🌟 About FAST-Hub
 
@@ -29,30 +47,12 @@ Our mission is simple: **to provide a unified, accessible, and comprehensive rep
 
 ### Why an Organization?
 Previously, study materials were scattered across private drives, WhatsApp groups, or tied dependently to individual personal accounts that could become inactive. **FAST-Hub** was created to decentralize ownership and build a true community platform. By structuring our resources into a dedicated organization:
-- **No Single Point of Failure:** Repositories belong to the community, not just one person.
+- **No Single Point of Failure:** Repositories belong to the community, not just one person; the owner [(me)](https://github.com/MuxammilSidd) got his account banned once.
 - **Automated Pipelines:** The DASTI GitHub App automatically routes contributions to the correct semester repository.
 - **Open Contribution:** Anyone can submit materials via our beautiful web UI, ensuring the archives grow continuously through community effort.
 
 ---
 
-## 📚 Semester Repositories
-
-Browse the organized archives for your specific semester. All contributions made via the website are automatically merged here:
-
-| Semester | Repository Link |
-| :---: | :--- |
-| **I** | [📦 FAST-KHI-Semester-1](https://github.com/FAST-Hub/FAST-KHI-Semester-1) |
-| **II** | [📦 FAST-KHI-Semester-2](https://github.com/FAST-Hub/FAST-KHI-Semester-2) |
-| **III** | [📦 FAST-KHI-Semester-3](https://github.com/FAST-Hub/FAST-KHI-Semester-3) |
-| **IV** | [📦 FAST-KHI-Semester-4](https://github.com/FAST-Hub/FAST-KHI-Semester-4) |
-| **V** | [📦 FAST-KHI-Semester-5](https://github.com/FAST-Hub/FAST-KHI-Semester-5) |
-| **VI** | [📦 FAST-KHI-Semester-6](https://github.com/FAST-Hub/FAST-KHI-Semester-6) |
-| **VII** | [📦 FAST-KHI-Semester-7](https://github.com/FAST-Hub/FAST-KHI-Semester-7) |
-| **VIII** | [📦 FAST-KHI-Semester-8](https://github.com/FAST-Hub/FAST-KHI-Semester-8) |
-
-> *Note: These repositories are strictly organized into standardized folder structures (Theory vs. Lab, Assignments, Notes, Past Papers, etc.) to ensure seamless fetching by the DASTI website.*
-
----
 
 ## ⚡ How to Contribute
 
@@ -69,9 +69,9 @@ You do not need to fork these repositories manually! We've made contributing eff
 
 **Muhammad Muzammil Siddiqui** ([@MuxammilSidd](https://github.com/MuxammilSidd))
 
-Built with a passion for web development, system architecture, and helping the FAST-KHI community. The platform utilizes a modern tech stack including React, Vite, Supabase, Node Serverless Functions, and the GitHub API, wrapped in a beautiful, responsive, dark-themed UI.
+"Built with a passion for web development, system architecture, and helping the FAST-KHI community. The platform utilizes a modern tech stack including React, Vite, Supabase, Node Serverless Functions, and the GitHub API, wrapped in a beautiful, responsive, dark-themed UI" is what i would've said if i had built ts myself. GG antigravity da best. 💃
 
 <div align="center">
   <br />
-  <img src="https://raw.githubusercontent.com/MuxammilSidd/MuxammilSidd/main/assets/wave.gif" width="30" /> <i>Happy studying, and good luck with those finals!</i>
+  <img src="https://raw.githubusercontent.com/MuxammilSidd/MuxammilSidd/main/assets/wave.gif" width="30" /> <i>Happy studying, and good luck with those exams!</i>
 </div>

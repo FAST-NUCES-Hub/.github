@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <a href="https://dasti.vercel.app">
-    <img src="https://raw.githubusercontent.com/FAST-Hub/.github/main/assets/dasti-logo.png" alt="DASTI Logo" width="120" />
+    <img src="https://github.com/FAST-NUCES-Hub/.github/blob/main/assets/dasti-logo.png" alt="DASTI Logo" width="120" />
   </a>
   <br />
   <br />

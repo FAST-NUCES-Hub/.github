@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <a href="https://dasti.vercel.app">
-    <img src="https://github.com/FAST-NUCES-Hub/.github/blob/main/assets/dasti-logo.png" alt="DASTI Logo" width="120" />
+    <img src="https://github.com/FAST-NUCES-Hub/.github/blob/main/assets/dasti-logo.png" alt="DASTI Logo" width="90" />
   </a>
   <br />
   <br />
@@ -76,3 +76,5 @@ You do not need to fork these repositories manually! We've made contributing eff
   <br />
   <img src="https://raw.githubusercontent.com/MuxammilSidd/MuxammilSidd/main/assets/wave.gif" width="30" /> <i>Happy studying, and good luck with those exams!</i>
 </div>
+
+[View LinkedIn Launch Post](https://www.linkedin.com/posts/muzammilsiddiqui27_introducing-dasti-activity-7444066346499256320-6hKH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEUyk7YBafgc3ZttwhXaPuUeoufyv0cIgfw)
